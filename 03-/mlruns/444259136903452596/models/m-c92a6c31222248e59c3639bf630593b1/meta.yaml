@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/louay/OneDrive/Documents/IE%20Uni/Term%202/MLops/ie-mlops-nyc-taxis/03-/mlruns/444259136903452596/models/m-c92a6c31222248e59c3639bf630593b1/artifacts
+creation_timestamp: 1761737328601
+experiment_id: '444259136903452596'
+last_updated_timestamp: 1761737334445
+model_id: m-c92a6c31222248e59c3639bf630593b1
+model_type: null
+name: models
+source_run_id: 921a40226c2b4ce49e09977b2bd92a58
+status: 2
+status_message: null

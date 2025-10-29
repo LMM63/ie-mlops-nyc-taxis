@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/louay/OneDrive/Documents/IE%20Uni/Term%202/MLops/ie-mlops-nyc-taxis/03-/mlruns/444259136903452596/47fdf1ea477348068a40748e8b597139/artifacts
+end_time: 1761737328088
+entry_point_name: ''
+experiment_id: '444259136903452596'
+lifecycle_stage: active
+run_id: 47fdf1ea477348068a40748e8b597139
+run_name: adventurous-kite-382
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761737281901
+status: 3
+tags: []
+user_id: louay
